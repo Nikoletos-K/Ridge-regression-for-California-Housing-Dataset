@@ -10,4 +10,4 @@ algorithms. Used appropriate visualization techniques to demonstrate how well my
 specifically that they are not underfitting or overfitting). 
 
 
-### **If notebook doesn't open in GitHub follow the link [jupyter nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/ML-Regularized-non-negative-Matrix-Factorization/blob/main/ML-Notebook.ipynb)
+### **If notebook doesn't open in GitHub follow the link [jupyter nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/Ridge-regression-for-California-Housing-Dataset/blob/main/Ridge_regression_notebook.ipynb)
